@@ -33,6 +33,17 @@ body {
   flex-direction: column;
 }
 
+.container_bkgGreen {
+  background-color: green;
+}
+
+.container_bkgOrange {
+  background-color: orange;
+}
+.container_bkgBlue {
+  background-color:blue;
+}
+
 .containerCenter {
   display: flex;
   margin: 40px;
